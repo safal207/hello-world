@@ -36,5 +36,5 @@ def verify_notebook(path):
 
 # --- Main execution ---
 if __name__ == "__main__":
-    notebook_path = "Numpy/Numpy.ipynb"
+    notebook_path = "CV/Conv2D_Arguments.ipynb"
     verify_notebook(notebook_path)
